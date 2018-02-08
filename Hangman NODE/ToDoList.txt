@@ -1,0 +1,37 @@
+created minimun 3 files 
+• letter.js
+• index.js
+• word.js
+• create extra file if necessary...
+
+
+
+Letter.js File :
+(x) build a constructor that will have a plraceholder
+(x) a boolean that shows if user has guessed that letter
+(x) function that will return a placeholder if user already guesse that letter
+() function that will take the correct guessed letter.
+
+
+
+
+
+ Word.js File :
+() build a constructor that holds the word the user is trying to guess.
+()function that will split the word into array
+
+
+
+
+
+Index.js File :
+
+(x) create a function, that will randomly select one word from a group of words inside an array.
+(x) than, sends the random word to the Word.js file.
+() holds the word in a constructor
+() Ask user for a Letter.
+() Keeps track of the number of lives left.
+
+
+Run.js File:
+() 
